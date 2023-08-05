@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Travel App</string>
+    <string name="app_name">Travel Mobile App</string>
     destination 01
     <string name="place_1">Bali </string>
     <string name="plan">7days/2persons</string>
